@@ -1,0 +1,63 @@
+about:
+  description: A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
+  license: MIT
+  homepage: 
+  head: 4e1ea0a
+  archived: false
+  latestVersion: v0.1.35
+  collectedAt: 2026-09-01T05:24:00Z
+timeline:
+  created: 2026-02-02
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-28
+popularity:
+  star: 410
+  watcher: 1
+  fork: 56
+  release: 36
+  contributor: 10000
+  pullRequest: 31
+  issue: 170
+language:
+  Python: 9954752
+  TypeScript: 608640
+  Shell: 48246
+  PowerShell: 37696
+  Dockerfile: 7613
+  CSS: 5010
+  Makefile: 1934
+  HTML: 840
+totalLine: 10664731
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 9
+    mergedPR: 78
+    openPR: 6
+    closedIssue: 49
+    openIssue: 7
+    commit: 69
+  last90d:
+    since: 2026-06-03
+    release: 17
+    mergedPR: 144
+    openPR: 11
+    closedIssue: 88
+    openIssue: 9
+    commit: 148
+  last180d:
+    since: 2026-03-05
+    release: 35
+    mergedPR: 288
+    openPR: 17
+    closedIssue: 148
+    openIssue: 14
+    commit: 282
+  last360d:
+    since: 2025-09-06
+    release: 36
+    mergedPR: 300
+    openPR: 17
+    closedIssue: 156
+    openIssue: 14
+    commit: 311
