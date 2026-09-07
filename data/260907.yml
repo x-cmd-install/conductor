@@ -5,7 +5,7 @@ about:
   head: ff4b312
   archived: false
   latestVersion: "v0.1.36"
-  collectedAt: 2026-09-07T04:22:26Z
+  collectedAt: 2026-09-07T20:01:13Z
 timeline:
   created: 2026-02-02
   lastCommit: 2026-09-04
@@ -13,11 +13,11 @@ timeline:
 popularity:
   star: 422
   watcher: 1
-  fork: 57
+  fork: 58
   release: 37
-  contributor: 4304
-  pullRequest: 336
-  issue: 171
+  contributor: 4305
+  pullRequest: 338
+  issue: 172
 language:
   Python: 10193765
   TypeScript: 623062
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-08
     release: 9
     mergedPR: 63
-    openPR: 7
+    openPR: 9
     closedIssue: 37
-    openIssue: 7
+    openIssue: 8
     commit: 43
   last60d:
     since: 2026-07-09
     release: 16
     mergedPR: 123
-    openPR: 9
+    openPR: 11
     closedIssue: 78
-    openIssue: 9
+    openIssue: 10
     commit: 119
   last90d:
     since: 2026-06-09
     release: 18
     mergedPR: 147
-    openPR: 12
+    openPR: 14
     closedIssue: 87
-    openIssue: 9
+    openIssue: 10
     commit: 152
   last180d:
     since: 2026-03-11
     release: 36
     mergedPR: 284
-    openPR: 18
+    openPR: 20
     closedIssue: 146
-    openIssue: 14
+    openIssue: 15
     commit: 278
   last360d:
     since: 2025-09-12
     release: 37
     mergedPR: 304
-    openPR: 18
+    openPR: 20
     closedIssue: 157
-    openIssue: 14
+    openIssue: 15
     commit: 315
   last720d:
     since: 2024-09-17
     release: 37
     mergedPR: 304
-    openPR: 18
+    openPR: 20
     closedIssue: 157
-    openIssue: 14
+    openIssue: 15
     commit: 316
 total:
   release: 37
   mergedPR: 304
-  openPR: 18
+  openPR: 20
   closedIssue: 157
-  openIssue: 14
+  openIssue: 15
   commit: 316
 ---
 path: /home/runner/.x-repo/github.com/microsoft/conductor
-collectedAt: 2026-09-07T04:22:29Z
+collectedAt: 2026-09-07T20:01:17Z
 loc:
   Python:
     code: 204900
@@ -172,7 +172,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:30+00:00
+  collectedAt: 2026-09-07T20:01:18+00:00
   platform:
     darwin/arm64:
       name:  null
