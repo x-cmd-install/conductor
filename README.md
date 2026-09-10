@@ -12,43 +12,7 @@ A CLI tool for defining and running multi-agent workflows with the GitHub Copilo
 x install conductor
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/microsoft/conductor>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.1.37` (2026-09-09)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [conductor_cli-0.1.37-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37-py3-none-any.whl) | 1.3 MiB | `other` |
-| [conductor_cli-0.1.37.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37.tar.gz) | 4.4 MiB | `native/unknown` |
-| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt) | 1.9 KiB | `other` |
-| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256) | 87 B | `other` |
-
-## Popularity
-
-- **Stars**: 427 · **Forks**: 60 · **Open issues**: 174 · **Contributors**: 4,297
-
-## Totals (cumulative)
-
-- **Releases**: 38 · **Merged PRs**: 315 · **Open PRs**: 17 · **Closed issues**: 160 · **Open issues**: 14 · **Commits**: 327
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 63 | 6 | 27 | 7 | 54 |
-| 90d | 2026-06-12 | 19 | 158 | 11 | 90 | 9 | 163 |
-| 360d | 2025-09-15 | 38 | 315 | 17 | 160 | 14 | 326 |
-
-## Code size
+## Code insight
 
 Total: **238,351** lines of code across **623** files in the top 5 languages.
 
@@ -60,6 +24,45 @@ Total: **238,351** lines of code across **623** files in the top 5 languages.
 | Yaml | 5,341 | 1,591 | 739 | 69 |
 | Json | 3,841 | 0 | 0 | 8 |
 
+## Source
+
+- **Upstream**: <https://github.com/microsoft/conductor>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.1.37` (2026-09-09)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 4
+
+## Popularity
+
+- **Stars**: 427 · **Forks**: 61 · **Open issues**: 174 · **Contributors**: 4,296
+
+## Totals (cumulative)
+
+- **Releases**: 38 · **Merged PRs**: 315 · **Open PRs**: 18 · **Closed issues**: 160 · **Open issues**: 14 · **Commits**: 327
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 10 | 63 | 7 | 27 | 7 | 54 |
+| last60d | 2026-07-12 | 17 | 133 | 9 | 76 | 8 | 130 |
+| 90d | 2026-06-12 | 19 | 158 | 12 | 90 | 9 | 163 |
+| last180d | 2026-03-14 | 37 | 293 | 18 | 148 | 14 | 289 |
+| 360d | 2025-09-15 | 38 | 315 | 18 | 160 | 14 | 326 |
+| last720d | 2024-09-20 | 38 | 315 | 18 | 160 | 14 | 327 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [conductor_cli-0.1.37-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37-py3-none-any.whl) | 1.3 MiB | `other` |
+| [conductor_cli-0.1.37.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37.tar.gz) | 4.4 MiB | `native/unknown` |
+| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt) | 1.9 KiB | `other` |
+| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256) | 87 B | `other` |
+
 ## Improve this data
 
 Install metadata for conductor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conductor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -69,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:00Z._
