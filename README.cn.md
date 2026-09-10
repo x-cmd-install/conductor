@@ -4,7 +4,7 @@
 
 A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
 
-![conductor](https://repo.x-cmd.io/conductor.svg)
+![conductor](https://repo.x-cmd.io/conductor.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,31 @@ x install conductor
 - **最新版本**: `v0.1.37` (2026-09-09)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-09-09T20:13:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [conductor_cli-0.1.37-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37-py3-none-any.whl) | 1.3 MiB | `other` |
+| [conductor_cli-0.1.37.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37.tar.gz) | 4.4 MiB | `native/unknown` |
+| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt) | 1.9 KiB | `other` |
+| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256) | 87 B | `other` |
 
 ## 流行度
 
-- **Star**: 426 · **Fork**: 59 · **开放 issue**: 174 · **贡献者**: 4,297
+- **Star**: 427 · **Fork**: 60 · **开放 issue**: 174 · **贡献者**: 4,297
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 315 · **开放 PR**: 16 · **已关闭 issue**: 160 · **开放 issue**: 14 · **提交数**: 327
+- **发布数**: 38 · **已合并 PR**: 315 · **开放 PR**: 17 · **已关闭 issue**: 160 · **开放 issue**: 14 · **提交数**: 327
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 63 | 5 | 27 | 7 | 54 |
-| 90d | 2026-06-12 | 19 | 158 | 10 | 90 | 9 | 163 |
-| 360d | 2025-09-15 | 38 | 315 | 16 | 160 | 14 | 326 |
+| 30d | 2026-08-11 | 10 | 63 | 6 | 27 | 7 | 54 |
+| 90d | 2026-06-12 | 19 | 158 | 11 | 90 | 9 | 163 |
+| 360d | 2025-09-15 | 38 | 315 | 17 | 160 | 14 | 326 |
 
 ## 代码规模
 
@@ -61,4 +69,4 @@ conductor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:43Z._
