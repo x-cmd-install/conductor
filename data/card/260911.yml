@@ -1,0 +1,177 @@
+about:
+  description: "A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK."
+  license: MIT
+  homepage: 
+  head: f7f444c
+  archived: false
+  latestVersion: "v0.1.37"
+  latestRelease: "v0.1.37"
+  latestPrerelease: ""
+  collectedAt: 2026-09-11T04:25:46Z
+timeline:
+  created: 2026-02-02
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 
+popularity:
+  star: 428
+  watcher: 1
+  fork: 62
+  release: 38
+  contributor: 4294
+  pullRequest: 349
+  issue: 174
+language:
+  Python: 10698644
+  TypeScript: 651964
+  Shell: 48246
+  PowerShell: 37696
+  Dockerfile: 7613
+  CSS: 5010
+  Makefile: 1934
+  HTML: 840
+totalBytes: 11451947
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 10
+    mergedPR: 56
+    openPR: 8
+    closedIssue: 26
+    openIssue: 7
+    commit: 54
+  last60d:
+    since: 2026-07-13
+    release: 17
+    mergedPR: 129
+    openPR: 9
+    closedIssue: 76
+    openIssue: 8
+    commit: 130
+  last90d:
+    since: 2026-06-13
+    release: 19
+    mergedPR: 158
+    openPR: 13
+    closedIssue: 89
+    openIssue: 9
+    commit: 163
+  last180d:
+    since: 2026-03-15
+    release: 37
+    mergedPR: 293
+    openPR: 19
+    closedIssue: 144
+    openIssue: 14
+    commit: 289
+  last360d:
+    since: 2025-09-16
+    release: 38
+    mergedPR: 315
+    openPR: 19
+    closedIssue: 160
+    openIssue: 14
+    commit: 326
+  last720d:
+    since: 2024-09-21
+    release: 38
+    mergedPR: 315
+    openPR: 19
+    closedIssue: 160
+    openIssue: 14
+    commit: 327
+total:
+  release: 38
+  mergedPR: 315
+  openPR: 19
+  closedIssue: 160
+  openIssue: 14
+  commit: 327
+---
+path: /home/runner/.x-repo/github.com/microsoft/conductor
+collectedAt: 2026-09-11T04:25:49Z
+loc:
+  Python:
+    code: 213680
+    comments: 13840
+    blanks: 36678
+    files: 471
+  TypeScript:
+    code: 7865
+    comments: 1517
+    blanks: 986
+    files: 27
+  Tsx:
+    code: 5894
+    comments: 385
+    blanks: 539
+    files: 48
+  Yaml:
+    code: 5341
+    comments: 1591
+    blanks: 739
+    files: 69
+  Json:
+    code: 3841
+    comments: 0
+    blanks: 0
+    files: 8
+  Sh:
+    code: 608
+    comments: 375
+    blanks: 85
+    files: 2
+  PowerShell:
+    code: 578
+    comments: 204
+    blanks: 61
+    files: 1
+  Css:
+    code: 222
+    comments: 14
+    blanks: 36
+    files: 2
+  Toml:
+    code: 105
+    comments: 32
+    blanks: 10
+    files: 1
+  JavaScript:
+    code: 91
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 43
+    comments: 18
+    blanks: 18
+    files: 1
+  Dockerfile:
+    code: 30
+    comments: 104
+    blanks: 11
+    files: 1
+  Html:
+    code: 27
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 26
+    comments: 6
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 24355
+    blanks: 7275
+    files: 65
+total:
+  code: 244784
+  comments: 43278
+  blanks: 47252
+  files: 701
+---
+
+---

@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1952,
       "digest": "sha256:98fb38ef40daa5827601be1aaa2983dea2460cdc35c040f70c9d350d4bf2ea14",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-09-09T20:13:44Z",
       "updated_at": "2026-09-09T20:13:45Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:b52cd0ff76eb017f32fd2b67d8256d4ddb9d6cc209e3f98dcaf5167b86201cb8",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-09-09T20:13:44Z",
       "updated_at": "2026-09-09T20:13:45Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256"
