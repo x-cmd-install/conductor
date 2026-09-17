@@ -37,22 +37,22 @@ Total: **244,366** lines of code across **644** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 436 · **Forks**: 62 · **Open issues**: 177 · **Contributors**: 4,293
+- **Stars**: 439 · **Forks**: 63 · **Open issues**: 177 · **Contributors**: 4,289
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 320 · **Open PRs**: 19 · **Closed issues**: 161 · **Open issues**: 16 · **Commits**: 332
+- **Releases**: 38 · **Merged PRs**: 320 · **Open PRs**: 20 · **Closed issues**: 161 · **Open issues**: 16 · **Commits**: 332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 6 | 39 | 8 | 16 | 9 | 34 |
-| last60d | 2026-07-18 | 15 | 122 | 9 | 70 | 10 | 112 |
-| 90d | 2026-06-18 | 18 | 151 | 13 | 88 | 11 | 156 |
-| last180d | 2026-03-20 | 36 | 288 | 19 | 145 | 16 | 286 |
-| 360d | 2025-09-21 | 38 | 320 | 19 | 161 | 16 | 331 |
-| last720d | 2024-09-26 | 38 | 320 | 19 | 161 | 16 | 332 |
+| 30d | 2026-08-18 | 5 | 35 | 9 | 13 | 9 | 34 |
+| last60d | 2026-07-19 | 15 | 122 | 10 | 70 | 10 | 112 |
+| 90d | 2026-06-19 | 18 | 150 | 14 | 88 | 11 | 156 |
+| last180d | 2026-03-21 | 36 | 288 | 20 | 145 | 16 | 286 |
+| 360d | 2025-09-22 | 38 | 320 | 20 | 161 | 16 | 331 |
+| last720d | 2024-09-27 | 38 | 320 | 20 | 161 | 16 | 332 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:40:12Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:44:23Z._
