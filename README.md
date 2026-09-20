@@ -4,7 +4,7 @@
 
 A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
 
-![conductor](https://repo.x-cmd.io/conductor.svg)
+[![x-cmd/install — conductor Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conductor.svg)](https://x-cmd.com/install/conductor)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install conductor
 
 ## Code insight
 
-Total: **244,396** lines of code across **646** files in the top 5 languages.
+Total: **248,032** lines of code across **651** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 219,671 | 14,232 | 37,827 | 493 |
+| Python | 223,278 | 14,565 | 38,498 | 498 |
 | TypeScript | 7,886 | 1,519 | 990 | 27 |
 | Tsx | 5,894 | 385 | 539 | 48 |
 | Yaml | 5,368 | 1,614 | 743 | 70 |
@@ -32,27 +32,27 @@ Total: **244,396** lines of code across **646** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.37` (2026-09-09)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 443 · **Forks**: 64 · **Open issues**: 177 · **Contributors**: 4,293
+- **Stars**: 450 · **Forks**: 65 · **Open issues**: 177 · **Contributors**: 4,285
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 323 · **Open PRs**: 19 · **Closed issues**: 162 · **Open issues**: 15 · **Commits**: 335
+- **Releases**: 38 · **Merged PRs**: 327 · **Open PRs**: 18 · **Closed issues**: 165 · **Open issues**: 12 · **Commits**: 339
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 36 | 8 | 14 | 8 | 37 |
-| last60d | 2026-07-20 | 15 | 123 | 9 | 69 | 9 | 115 |
-| 90d | 2026-06-20 | 18 | 152 | 13 | 89 | 10 | 159 |
-| last180d | 2026-03-22 | 36 | 288 | 19 | 146 | 15 | 289 |
-| 360d | 2025-09-23 | 38 | 323 | 19 | 162 | 15 | 334 |
-| last720d | 2024-09-28 | 38 | 323 | 19 | 162 | 15 | 335 |
+| 30d | 2026-08-21 | 4 | 38 | 5 | 16 | 3 | 31 |
+| last60d | 2026-07-22 | 12 | 116 | 8 | 66 | 7 | 114 |
+| 90d | 2026-06-22 | 18 | 156 | 12 | 92 | 7 | 156 |
+| last180d | 2026-03-24 | 36 | 290 | 18 | 149 | 12 | 283 |
+| 360d | 2025-09-25 | 38 | 327 | 18 | 165 | 12 | 338 |
+| last720d | 2024-09-30 | 38 | 327 | 18 | 165 | 12 | 339 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:36:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:45:20Z._
