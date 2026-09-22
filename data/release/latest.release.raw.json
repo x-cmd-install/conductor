@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/microsoft/conductor/releases/385815151",
-  "assets_url": "https://api.github.com/repos/microsoft/conductor/releases/385815151/assets",
-  "upload_url": "https://uploads.github.com/repos/microsoft/conductor/releases/385815151/assets{?name,label}",
-  "html_url": "https://github.com/microsoft/conductor/releases/tag/v0.1.37",
-  "id": 385815151,
+  "url": "https://api.github.com/repos/microsoft/conductor/releases/393258515",
+  "assets_url": "https://api.github.com/repos/microsoft/conductor/releases/393258515/assets",
+  "upload_url": "https://uploads.github.com/repos/microsoft/conductor/releases/393258515/assets{?name,label}",
+  "html_url": "https://github.com/microsoft/conductor/releases/tag/v0.1.39",
+  "id": 393258515,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORG39AM4W_xJv",
-  "tag_name": "v0.1.37",
+  "node_id": "RE_kwDORG39AM4XcKYT",
+  "tag_name": "v0.1.39",
   "target_commitish": "main",
-  "name": "v0.1.37",
+  "name": "Conductor 0.1.39",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T20:05:32Z",
-  "updated_at": "2026-09-09T20:13:46Z",
-  "published_at": "2026-09-09T20:13:46Z",
+  "created_at": "2026-09-21T19:54:45Z",
+  "updated_at": "2026-09-21T20:04:40Z",
+  "published_at": "2026-09-21T20:04:40Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/553494128",
-      "id": 553494128,
-      "node_id": "RA_kwDORG39AM4g_aZw",
-      "name": "conductor_cli-0.1.37-py3-none-any.whl",
+      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/579769319",
+      "id": 579769319,
+      "node_id": "RA_kwDORG39AM4ijpPn",
+      "name": "conductor_cli-0.1.39-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1406214,
-      "digest": "sha256:0fe8f2994ed04944811c41e3ded5fb1291d630e9fde3edc51156cc1ed7441db4",
-      "download_count": 15,
-      "created_at": "2026-09-09T20:13:44Z",
-      "updated_at": "2026-09-09T20:13:45Z",
-      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37-py3-none-any.whl"
+      "size": 1486355,
+      "digest": "sha256:d884bf4088bf8aa56cca8771f6610459cb51a4e344e7c0cacf13bac052f61788",
+      "download_count": 0,
+      "created_at": "2026-09-21T20:04:39Z",
+      "updated_at": "2026-09-21T20:04:40Z",
+      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.39/conductor_cli-0.1.39-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/553494130",
-      "id": 553494130,
-      "node_id": "RA_kwDORG39AM4g_aZy",
-      "name": "conductor_cli-0.1.37.tar.gz",
+      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/579769321",
+      "id": 579769321,
+      "node_id": "RA_kwDORG39AM4ijpPp",
+      "name": "conductor_cli-0.1.39.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4651402,
-      "digest": "sha256:2b0992b8524f992e0f5457b1fbcf766a7b1b656fb5ae1e1a7109b8294f5750a0",
+      "size": 4935537,
+      "digest": "sha256:0b2f21c2b8f287c9b3d3d1c77be9f907983a3579654e102a16ec24ccc0774da6",
       "download_count": 0,
-      "created_at": "2026-09-09T20:13:44Z",
-      "updated_at": "2026-09-09T20:13:45Z",
-      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37.tar.gz"
+      "created_at": "2026-09-21T20:04:39Z",
+      "updated_at": "2026-09-21T20:04:40Z",
+      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.39/conductor_cli-0.1.39.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/553494129",
-      "id": 553494129,
-      "node_id": "RA_kwDORG39AM4g_aZx",
+      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/579769326",
+      "id": 579769326,
+      "node_id": "RA_kwDORG39AM4ijpPu",
       "name": "constraints.txt",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
-      "size": 1952,
-      "digest": "sha256:98fb38ef40daa5827601be1aaa2983dea2460cdc35c040f70c9d350d4bf2ea14",
-      "download_count": 337,
-      "created_at": "2026-09-09T20:13:44Z",
-      "updated_at": "2026-09-09T20:13:45Z",
-      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt"
+      "size": 1966,
+      "digest": "sha256:228ac0eae1e3c2854cfc019d441d11409db71bdfcadbf4a5928456d6c165c167",
+      "download_count": 12,
+      "created_at": "2026-09-21T20:04:39Z",
+      "updated_at": "2026-09-21T20:04:40Z",
+      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.39/constraints.txt"
     },
     {
-      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/553494131",
-      "id": 553494131,
-      "node_id": "RA_kwDORG39AM4g_aZz",
+      "url": "https://api.github.com/repos/microsoft/conductor/releases/assets/579769323",
+      "id": 579769323,
+      "node_id": "RA_kwDORG39AM4ijpPr",
       "name": "constraints.txt.sha256",
       "label": "",
       "uploader": {
@@ -174,15 +174,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 87,
-      "digest": "sha256:b52cd0ff76eb017f32fd2b67d8256d4ddb9d6cc209e3f98dcaf5167b86201cb8",
-      "download_count": 333,
-      "created_at": "2026-09-09T20:13:44Z",
-      "updated_at": "2026-09-09T20:13:45Z",
-      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256"
+      "digest": "sha256:a23199d56eb6ccfac8f1b2c9f1ff87b0df55bb3be32b74bdd50852abcfcda015",
+      "download_count": 11,
+      "created_at": "2026-09-21T20:04:39Z",
+      "updated_at": "2026-09-21T20:04:40Z",
+      "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.39/constraints.txt.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/microsoft/conductor/tarball/v0.1.37",
-  "zipball_url": "https://api.github.com/repos/microsoft/conductor/zipball/v0.1.37",
-  "body": "## What's Changed\n* chore(deps): Bump astral-sh/setup-uv from 10.0.0 to 10.0.1 in the github-actions group by @dependabot[bot] in https://github.com/microsoft/conductor/pull/494\n* feat(claude-agent-sdk): opt-in setting_sources for target-repo skills by @joaomena in https://github.com/microsoft/conductor/pull/502\n* feat(providers): always-on client-side context compaction for pydantic-ai providers (claude, openai) by @hertznsk in https://github.com/microsoft/conductor/pull/503\n* fix(providers): retry transient OpenAI stream errors by @hertznsk in https://github.com/microsoft/conductor/pull/506\n* fix(providers): guard compaction against token estimate drift by @hertznsk in https://github.com/microsoft/conductor/pull/507\n* chore(deps): Bump httpcore2 from 2.3.0 to 2.10.0 by @dependabot[bot] in https://github.com/microsoft/conductor/pull/515\n* chore(deps): Bump @vitest/mocker and vitest in /src/conductor/web/frontend by @dependabot[bot] in https://github.com/microsoft/conductor/pull/520\n* chore(deps): Bump httpx2 from 2.10.0 to 2.12.0 by @dependabot[bot] in https://github.com/microsoft/conductor/pull/516\n* feat(claude-agent-sdk): select the project settings tier with settings_dir by @throup in https://github.com/microsoft/conductor/pull/514\n* fix(providers): prevent concurrent registry creation by @ldavidgomez in https://github.com/microsoft/conductor/pull/512\n* Preserve agent conversation across validator retries by @hertznsk in https://github.com/microsoft/conductor/pull/511\n* fix(gates): read a terminal dialog reply as one multi-line turn by @throup in https://github.com/microsoft/conductor/pull/510\n* chore(release): cut 0.1.37 by @jrob5756 in https://github.com/microsoft/conductor/pull/521\n\n## New Contributors\n* @joaomena made their first contribution in https://github.com/microsoft/conductor/pull/502\n* @throup made their first contribution in https://github.com/microsoft/conductor/pull/514\n\n**Full Changelog**: https://github.com/microsoft/conductor/compare/v0.1.36...v0.1.37",
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/microsoft/conductor/tarball/v0.1.39",
+  "zipball_url": "https://api.github.com/repos/microsoft/conductor/zipball/v0.1.39",
+  "body": "## [0.1.39] - 2026-09-21\n\n### Added\n\n- **`claude-agent-sdk` provider: explicit authentication mode selection.** The\n  new `runtime.provider.auth_mode` field (`\"auto\"` default, `\"subscription\"`,\n  `\"api_key\"`) selects which credential the `claude` child process uses. `auto`\n  leaves the inherited environment unchanged, so existing workflows are\n  unaffected. `subscription` blanks `ANTHROPIC_API_KEY`, `ANTHROPIC_AUTH_TOKEN`\n  and `CLAUDE_CODE_OAUTH_TOKEN` in the child environment; `api_key` requires a\n  non-blank `ANTHROPIC_API_KEY` and blanks the other two. Both explicit modes\n  refuse an inherited non-blank `CLAUDE_CODE_USE_BEDROCK` / `_VERTEX` /\n  `_FOUNDRY` cloud-backend selector, naming the variable but never its value;\n  `auto` keeps it. Both explicit modes also refuse a non-empty\n  `setting_sources`, at `conductor validate` and at run time, because a Claude\n  Code settings file's `env` block is applied after Conductor configures the\n  child environment. Each agent execution captures its environment, working\n  directory, settings tiers, and CLI path once; a readiness check (`claude auth\n  status --json`, skipped for `api_key`) and the SDK session both use that\n  capture — including the same settings tiers, passed to the check as\n  `--setting-sources` — and Conductor's own environment is never modified. Every\n  mode, `auto` with an API key included, requires the `claude` CLI to be\n  installed, checked without running it. The readiness check is not billing\n  attribution. `conductor doctor --check` shows Conductor's inferred mode\n  separately from the CLI-reported `authMethod` / `apiProvider` / `apiKeySource`\n  / `subscriptionType`, and states that it checked the default provider\n  configuration rather than any workflow's `auth_mode`. See\n  `docs/workflow-syntax.md` (Authentication Mode) and `docs/configuration.md`.\n  (#522)\n\n### Fixed\n\n- Fixed skill and plugin path diagnostics on Python 3.14, whose rewritten\n  `pathlib` makes `exists()`, `is_dir()` and `is_file()` swallow\n  `PermissionError` and return `False`: an unreadable skill path, plugin\n  path, local plugin source, or skills-root subdirectory is once again\n  reported as \"could not be read\" instead of being misreported as missing\n  or silently skipped. Also excluded `performance`-marked tests from the\n  default `make test` and `make test-cov` targets, matching CI. (#540)\n- **Astra cost reporting**: added static pricing for `gpt-6-astra`, including\n  input, output, cache-read, and cache-write token rates, so costs remain\n  available when live Copilot billing metadata cannot be resolved. (#549)\n\n### Changed\n\n- **`!file` no longer YAML-sniffs its content; `!yamlfile` replaces the old\n  content-detection heuristic for structured includes**. Whether\n  `field: !file some/path` returned a string or a parsed dict/list used to\n  depend on the referenced file's exact content: a Markdown prompt whose prose\n  happened to parse as a YAML mapping (a line ending in `:` followed by a `- `\n  bulleted list, for example) was silently returned as a dict, and an unrelated\n  prose edit could flip a working prompt across that boundary with no config\n  change. `!file` now always returns the file's content verbatim as a string. A\n  new `!yamlfile` tag explicitly parses the referenced file as YAML and raises\n  a `ConfigurationError` naming the file if it isn't valid YAML, instead of\n  silently falling back to a string.\n  **Breaking change** for any workflow using `!file` to load structured YAML\n  (an output schema, a tool list, a nested config file): switch that reference\n  to `!yamlfile`. For example, `output: !file schemas/analysis-output.yaml`\n  becomes `output: !yamlfile schemas/analysis-output.yaml`. A `!file` include\n  that only ever held plain text (`prompt`, `system_prompt`, a description\n  field) needs no change; only `!yamlfile` recurses into nested\n  `!file`/`!yamlfile` tags, so a structured include with its own nested\n  includes needs the outer tag switched too. See\n  [`docs/workflow-syntax.md`](docs/workflow-syntax.md#external-file-references). (#528)\n- **AnyIO dependency**: updated the locked indirect dependency from 4.12.1 to\n  4.14.2. (#539)\n- **Script subprocesses are now always killed and reaped when a workflow run is\n  cancelled.** Script-step execution also now runs through a pluggable backend\n  seam owned by the workflow engine — a stdlib-only\n  `conductor.execution` contract (`RunnerBackend` protocol, data-shaped\n  `CommandResult`/`StartError`, run-scoped `WorkspaceLease`) with a local\n  subprocess reference implementation (`LocalRunnerBackend`). The root engine\n  prepares the run's workspace lease in `run()`/`resume()` and finalizes it in\n  the matching `finally` with the run's outcome (succeeded/failed/cancelled);\n  sub-workflows inherit the root run's backend and lease, so one run owns\n  exactly one lease. **No behavior change**: rendered commands, environment\n  handling, timeouts, error messages, and exit-code routing are unchanged; the\n  new backend seam otherwise preserves existing behavior. (#541)\n\n\n"
 }
