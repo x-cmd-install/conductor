@@ -14,14 +14,14 @@ x install conductor
 
 ## Code insight
 
-Total: **248,032** lines of code across **651** files in the top 5 languages.
+Total: **254,348** lines of code across **670** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 223,278 | 14,565 | 38,498 | 498 |
+| Python | 229,588 | 14,966 | 39,385 | 514 |
 | TypeScript | 7,886 | 1,519 | 990 | 27 |
 | Tsx | 5,894 | 385 | 539 | 48 |
-| Yaml | 5,368 | 1,614 | 743 | 70 |
+| Yaml | 5,372 | 1,614 | 743 | 73 |
 | Json | 3,841 | 0 | 0 | 8 |
 
 ## Source
@@ -31,37 +31,37 @@ Total: **248,032** lines of code across **651** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.37` (2026-09-09)
-- **Last commit**: 2026-09-18
+- **Latest**: `v0.1.39` (2026-09-21)
+- **Last commit**: 2026-09-21
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 451 · **Forks**: 65 · **Open issues**: 178 · **Contributors**: 4,285
+- **Stars**: 452 · **Forks**: 65 · **Open issues**: 181 · **Contributors**: 4,287
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 327 · **Open PRs**: 20 · **Closed issues**: 165 · **Open issues**: 13 · **Commits**: 339
+- **Releases**: 40 · **Merged PRs**: 337 · **Open PRs**: 16 · **Closed issues**: 168 · **Open issues**: 13 · **Commits**: 349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 36 | 7 | 14 | 4 | 31 |
-| last60d | 2026-07-23 | 12 | 116 | 10 | 66 | 8 | 114 |
-| 90d | 2026-06-23 | 18 | 156 | 14 | 91 | 8 | 156 |
-| last180d | 2026-03-25 | 35 | 285 | 20 | 148 | 13 | 283 |
-| 360d | 2025-09-26 | 38 | 327 | 20 | 165 | 13 | 338 |
-| last720d | 2024-10-01 | 38 | 327 | 20 | 165 | 13 | 339 |
+| 30d | 2026-08-23 | 6 | 45 | 3 | 17 | 4 | 41 |
+| last60d | 2026-07-24 | 14 | 126 | 6 | 69 | 8 | 124 |
+| 90d | 2026-06-24 | 20 | 164 | 10 | 92 | 8 | 166 |
+| last180d | 2026-03-26 | 34 | 294 | 16 | 147 | 13 | 293 |
+| 360d | 2025-09-27 | 40 | 337 | 16 | 168 | 13 | 348 |
+| last720d | 2024-10-02 | 40 | 337 | 16 | 168 | 13 | 349 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [conductor_cli-0.1.37-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37-py3-none-any.whl) | 1.3 MiB | `other` |
-| [conductor_cli-0.1.37.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.37/conductor_cli-0.1.37.tar.gz) | 4.4 MiB | `native/unknown` |
-| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt) | 1.9 KiB | `other` |
-| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.37/constraints.txt.sha256) | 87 B | `other` |
+| [conductor_cli-0.1.39-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.39/conductor_cli-0.1.39-py3-none-any.whl) | 1.4 MiB | `other` |
+| [conductor_cli-0.1.39.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.39/conductor_cli-0.1.39.tar.gz) | 4.7 MiB | `native/unknown` |
+| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.39/constraints.txt) | 1.9 KiB | `other` |
+| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.39/constraints.txt.sha256) | 87 B | `other` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:44:01Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:41:10Z._
