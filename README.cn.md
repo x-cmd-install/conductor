@@ -4,7 +4,7 @@
 
 A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Agents SDK.
 
-[![x-cmd/install — conductor Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conductor.svg?lang=zh)](https://x-cmd.com/install/conductor)
+[![x-cmd/install — conductor Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/conductor.svg?lang=zh)](https://x-cmd.com/install/conductor)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install conductor
 
 ## 代码洞察
 
-合计: **254,348** 行代码（覆盖前 5 种语言、共 **670** 个文件）。
+合计: **255,927** 行代码（覆盖前 5 种语言、共 **676** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 229,588 | 14,966 | 39,385 | 514 |
-| TypeScript | 7,886 | 1,519 | 990 | 27 |
+| Python | 231,157 | 15,155 | 39,601 | 520 |
+| TypeScript | 7,887 | 1,520 | 990 | 27 |
 | Tsx | 5,894 | 385 | 539 | 48 |
-| Yaml | 5,372 | 1,614 | 743 | 73 |
+| Yaml | 5,377 | 1,614 | 743 | 73 |
 | Json | 3,841 | 0 | 0 | 8 |
 
 ## 源代码
@@ -32,27 +32,27 @@ x install conductor
 ## 发布
 
 - **最新版本**: `v0.1.39` (2026-09-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 452 · **Fork**: 65 · **开放 issue**: 181 · **贡献者**: 4,287
+- **Star**: 455 · **Fork**: 65 · **开放 issue**: 181 · **贡献者**: 4,289
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 337 · **开放 PR**: 16 · **已关闭 issue**: 168 · **开放 issue**: 13 · **提交数**: 349
+- **发布数**: 40 · **已合并 PR**: 341 · **开放 PR**: 18 · **已关闭 issue**: 169 · **开放 issue**: 12 · **提交数**: 353
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 45 | 3 | 17 | 4 | 41 |
-| last60d | 2026-07-24 | 14 | 126 | 6 | 69 | 8 | 124 |
-| 90d | 2026-06-24 | 20 | 164 | 10 | 92 | 8 | 166 |
-| last180d | 2026-03-26 | 34 | 294 | 16 | 147 | 13 | 293 |
-| 360d | 2025-09-27 | 40 | 337 | 16 | 168 | 13 | 348 |
-| last720d | 2024-10-02 | 40 | 337 | 16 | 168 | 13 | 349 |
+| 30d | 2026-08-24 | 6 | 42 | 5 | 13 | 3 | 45 |
+| last60d | 2026-07-25 | 14 | 130 | 8 | 70 | 7 | 128 |
+| 90d | 2026-06-25 | 20 | 168 | 12 | 93 | 7 | 170 |
+| last180d | 2026-03-27 | 34 | 298 | 18 | 148 | 12 | 297 |
+| 360d | 2025-09-28 | 40 | 341 | 18 | 169 | 12 | 352 |
+| last720d | 2024-10-03 | 40 | 341 | 18 | 169 | 12 | 353 |
 
 ## Release 资产
 
@@ -72,4 +72,4 @@ conductor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:41:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:36:55Z._
