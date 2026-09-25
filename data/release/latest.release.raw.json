@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1521465,
       "digest": "sha256:335457c3022f8e67a78a681657bebd7de54f68f6f7d610b365615d033939dc8e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-23T15:35:12Z",
       "updated_at": "2026-09-23T15:35:12Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.40/conductor_cli-0.1.40-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5044992,
       "digest": "sha256:c59e27ef95bfb50d198516ca2094c42281a5cac7f42c3a00590c0a5f81fd0ea7",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-23T15:35:12Z",
       "updated_at": "2026-09-23T15:35:13Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.40/conductor_cli-0.1.40.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2001,
       "digest": "sha256:4d344ec194c08d9b5806bef65103c5f9c4c07b9f14dd997fde20875014cef592",
-      "download_count": 77,
+      "download_count": 103,
       "created_at": "2026-09-23T15:35:12Z",
       "updated_at": "2026-09-23T15:35:12Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.40/constraints.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:e1c5429363a307abb6f53004f27063e1d56d974acbab422b3020c1e2f587267d",
-      "download_count": 75,
+      "download_count": 99,
       "created_at": "2026-09-23T15:35:12Z",
       "updated_at": "2026-09-23T15:35:12Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.40/constraints.txt.sha256"
