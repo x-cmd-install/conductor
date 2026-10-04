@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5285879,
       "digest": "sha256:1a274e5eaf164da68f9a770b78150652024d9ef0a540259e27a3371f047f54ac",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-30T13:18:23Z",
       "updated_at": "2026-09-30T13:18:24Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.41/conductor_cli-0.1.41.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2001,
       "digest": "sha256:4d344ec194c08d9b5806bef65103c5f9c4c07b9f14dd997fde20875014cef592",
-      "download_count": 76,
+      "download_count": 80,
       "created_at": "2026-09-30T13:18:24Z",
       "updated_at": "2026-09-30T13:18:24Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.41/constraints.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:e1c5429363a307abb6f53004f27063e1d56d974acbab422b3020c1e2f587267d",
-      "download_count": 74,
+      "download_count": 78,
       "created_at": "2026-09-30T13:18:24Z",
       "updated_at": "2026-09-30T13:18:24Z",
       "browser_download_url": "https://github.com/microsoft/conductor/releases/download/v0.1.41/constraints.txt.sha256"
