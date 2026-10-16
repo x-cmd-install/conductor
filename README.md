@@ -32,27 +32,27 @@ Total: **308,695** lines of code across **750** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.42` (2026-10-06)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 471 · **Forks**: 70 · **Open issues**: 190 · **Contributors**: 4,288
+- **Stars**: 474 · **Forks**: 70 · **Open issues**: 190 · **Contributors**: 4,286
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 377 · **Open PRs**: 17 · **Closed issues**: 178 · **Open issues**: 12 · **Commits**: 389
+- **Releases**: 43 · **Merged PRs**: 378 · **Open PRs**: 16 · **Closed issues**: 178 · **Open issues**: 12 · **Commits**: 390
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 5 | 52 | 3 | 12 | 1 | 54 |
-| last60d | 2026-08-16 | 11 | 98 | 7 | 34 | 6 | 93 |
-| 90d | 2026-07-17 | 20 | 178 | 8 | 86 | 7 | 183 |
-| last180d | 2026-04-18 | 34 | 314 | 16 | 149 | 11 | 312 |
-| 360d | 2025-10-20 | 43 | 377 | 17 | 178 | 12 | 388 |
-| last720d | 2024-10-25 | 43 | 377 | 17 | 178 | 12 | 389 |
+| 30d | 2026-09-16 | 5 | 52 | 2 | 12 | 1 | 55 |
+| last60d | 2026-08-17 | 11 | 96 | 6 | 32 | 6 | 94 |
+| 90d | 2026-07-18 | 20 | 179 | 7 | 86 | 7 | 184 |
+| last180d | 2026-04-19 | 34 | 315 | 15 | 149 | 11 | 313 |
+| 360d | 2025-10-21 | 43 | 378 | 16 | 178 | 12 | 389 |
+| last720d | 2024-10-26 | 43 | 378 | 16 | 178 | 12 | 390 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:24:51Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:19:48Z._
