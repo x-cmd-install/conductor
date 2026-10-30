@@ -31,37 +31,37 @@ Total: **313,542** lines of code across **757** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.42` (2026-10-06)
-- **Last commit**: 2026-10-28
+- **Latest**: `v0.1.43` (2026-10-29)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 483 · **Forks**: 74 · **Open issues**: 195 · **Contributors**: 4,298
+- **Stars**: 483 · **Forks**: 74 · **Open issues**: 195 · **Contributors**: 4,299
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 389 · **Open PRs**: 16 · **Closed issues**: 178 · **Open issues**: 17 · **Commits**: 401
+- **Releases**: 44 · **Merged PRs**: 390 · **Open PRs**: 16 · **Closed issues**: 178 · **Open issues**: 17 · **Commits**: 402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 32 | 2 | 4 | 5 | 25 |
-| last60d | 2026-08-30 | 7 | 86 | 3 | 19 | 7 | 89 |
-| 90d | 2026-07-31 | 16 | 167 | 6 | 70 | 11 | 170 |
-| last180d | 2026-05-02 | 32 | 305 | 15 | 134 | 15 | 297 |
-| 360d | 2025-11-03 | 43 | 389 | 16 | 178 | 17 | 400 |
-| last720d | 2024-11-08 | 43 | 389 | 16 | 178 | 17 | 401 |
+| 30d | 2026-09-30 | 3 | 29 | 2 | 3 | 5 | 26 |
+| last60d | 2026-08-31 | 8 | 86 | 3 | 18 | 7 | 90 |
+| 90d | 2026-08-01 | 17 | 167 | 6 | 70 | 11 | 171 |
+| last180d | 2026-05-03 | 33 | 305 | 15 | 131 | 15 | 298 |
+| 360d | 2025-11-04 | 44 | 390 | 16 | 178 | 17 | 401 |
+| last720d | 2024-11-09 | 44 | 390 | 16 | 178 | 17 | 402 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [conductor_cli-0.1.42-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.42/conductor_cli-0.1.42-py3-none-any.whl) | 1.5 MiB | `other` |
-| [conductor_cli-0.1.42.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.42/conductor_cli-0.1.42.tar.gz) | 5.3 MiB | `native/unknown` |
-| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.42/constraints.txt) | 2.0 KiB | `other` |
-| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.42/constraints.txt.sha256) | 87 B | `other` |
+| [conductor_cli-0.1.43-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.43/conductor_cli-0.1.43-py3-none-any.whl) | 1.6 MiB | `other` |
+| [conductor_cli-0.1.43.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.43/conductor_cli-0.1.43.tar.gz) | 5.4 MiB | `native/unknown` |
+| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.43/constraints.txt) | 2.0 KiB | `other` |
+| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.43/constraints.txt.sha256) | 87 B | `other` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:33:53Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:37:01Z._
