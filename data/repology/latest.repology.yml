@@ -1,7 +1,7 @@
 - repo: homebrew_casks
   srcname: conductor
   visiblename: Conductor
-  version: 0.92.0
+  version: 0.92.1
   origversion: null
   status: unique
   summary: Claude code parallelisation
