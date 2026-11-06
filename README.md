@@ -32,27 +32,27 @@ Total: **323,426** lines of code across **792** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.44` (2026-11-01)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 490 · **Forks**: 77 · **Open issues**: 196 · **Contributors**: 4,301
+- **Stars**: 492 · **Forks**: 77 · **Open issues**: 196 · **Contributors**: 4,302
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 397 · **Open PRs**: 18 · **Closed issues**: 179 · **Open issues**: 17 · **Commits**: 409
+- **Releases**: 45 · **Merged PRs**: 398 · **Open PRs**: 18 · **Closed issues**: 179 · **Open issues**: 17 · **Commits**: 410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 26 | 4 | 2 | 5 | 25 |
-| last60d | 2026-09-06 | 8 | 89 | 5 | 18 | 7 | 93 |
-| 90d | 2026-08-07 | 17 | 160 | 8 | 61 | 11 | 163 |
-| last180d | 2026-05-09 | 30 | 285 | 17 | 127 | 15 | 283 |
-| 360d | 2025-11-10 | 45 | 397 | 18 | 179 | 17 | 408 |
-| last720d | 2024-11-15 | 45 | 397 | 18 | 179 | 17 | 409 |
+| 30d | 2026-10-07 | 2 | 24 | 4 | 1 | 5 | 26 |
+| last60d | 2026-09-07 | 8 | 88 | 5 | 17 | 7 | 94 |
+| 90d | 2026-08-08 | 17 | 156 | 8 | 58 | 11 | 164 |
+| last180d | 2026-05-10 | 30 | 286 | 16 | 127 | 15 | 284 |
+| 360d | 2025-11-11 | 45 | 398 | 18 | 179 | 17 | 409 |
+| last720d | 2024-11-16 | 45 | 398 | 18 | 179 | 17 | 410 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:27:42Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:22:12Z._
