@@ -14,14 +14,14 @@ x install conductor
 
 ## Code insight
 
-Total: **324,168** lines of code across **792** files in the top 5 languages.
+Total: **345,714** lines of code across **819** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 298,187 | 18,256 | 48,355 | 625 |
+| Python | 319,691 | 18,770 | 50,477 | 651 |
 | TypeScript | 8,533 | 1,605 | 1,061 | 30 |
 | Tsx | 5,957 | 394 | 542 | 48 |
-| Yaml | 5,650 | 1,772 | 794 | 81 |
+| Yaml | 5,691 | 1,778 | 799 | 82 |
 | Json | 4,040 | 0 | 0 | 8 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **324,168** lines of code across **792** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.45` (2026-11-10)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-13
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 499 · **Forks**: 77 · **Open issues**: 197 · **Contributors**: 4,309
+- **Stars**: 502 · **Forks**: 77 · **Open issues**: 197 · **Contributors**: 4,307
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 404 · **Open PRs**: 15 · **Closed issues**: 179 · **Open issues**: 18 · **Commits**: 416
+- **Releases**: 46 · **Merged PRs**: 407 · **Open PRs**: 15 · **Closed issues**: 179 · **Open issues**: 18 · **Commits**: 419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 24 | 1 | 1 | 6 | 26 |
-| last60d | 2026-09-14 | 8 | 82 | 1 | 14 | 7 | 84 |
-| 90d | 2026-08-15 | 15 | 131 | 5 | 38 | 12 | 130 |
-| last180d | 2026-05-17 | 29 | 275 | 13 | 121 | 15 | 268 |
-| 360d | 2025-11-18 | 46 | 404 | 15 | 179 | 18 | 415 |
-| last720d | 2024-11-23 | 46 | 404 | 15 | 179 | 18 | 416 |
+| 30d | 2026-10-15 | 3 | 27 | 1 | 1 | 6 | 29 |
+| last60d | 2026-09-15 | 8 | 82 | 1 | 13 | 7 | 87 |
+| 90d | 2026-08-16 | 14 | 128 | 5 | 35 | 12 | 133 |
+| last180d | 2026-05-18 | 29 | 269 | 13 | 118 | 15 | 271 |
+| 360d | 2025-11-19 | 46 | 407 | 15 | 179 | 18 | 418 |
+| last720d | 2024-11-24 | 46 | 407 | 15 | 179 | 18 | 419 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for conductor lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:25:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:16:29Z._
