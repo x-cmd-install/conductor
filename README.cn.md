@@ -14,11 +14,11 @@ x install conductor
 
 ## 代码洞察
 
-合计: **349,354** 行代码（覆盖前 5 种语言、共 **824** 个文件）。
+合计: **349,384** 行代码（覆盖前 5 种语言、共 **824** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 323,270 | 18,881 | 51,066 | 655 |
+| Python | 323,300 | 18,881 | 51,073 | 655 |
 | TypeScript | 8,533 | 1,605 | 1,061 | 30 |
 | Tsx | 5,957 | 394 | 542 | 48 |
 | Yaml | 5,748 | 1,803 | 803 | 83 |
@@ -31,37 +31,37 @@ x install conductor
 
 ## 发布
 
-- **最新版本**: `v0.1.45` (2026-11-10)
+- **最新版本**: `v0.1.46` (2026-11-19)
 - **最近提交**: 2026-11-19
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 506 · **Fork**: 81 · **开放 issue**: 198 · **贡献者**: 4,335
+- **Star**: 506 · **Fork**: 81 · **开放 issue**: 198 · **贡献者**: 4,338
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 412 · **开放 PR**: 16 · **已关闭 issue**: 180 · **开放 issue**: 18 · **提交数**: 424
+- **发布数**: 47 · **已合并 PR**: 415 · **开放 PR**: 16 · **已关闭 issue**: 180 · **开放 issue**: 18 · **提交数**: 427
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 29 | 2 | 2 | 5 | 34 |
-| last60d | 2026-09-20 | 8 | 79 | 2 | 13 | 7 | 71 |
-| 90d | 2026-08-21 | 12 | 123 | 3 | 31 | 9 | 123 |
-| last180d | 2026-05-23 | 28 | 264 | 11 | 113 | 13 | 271 |
-| 360d | 2025-11-24 | 46 | 412 | 16 | 180 | 18 | 423 |
-| last720d | 2024-11-29 | 46 | 412 | 16 | 180 | 18 | 424 |
+| 30d | 2026-10-21 | 4 | 30 | 2 | 2 | 1 | 37 |
+| last60d | 2026-09-21 | 9 | 77 | 2 | 10 | 7 | 74 |
+| 90d | 2026-08-22 | 13 | 124 | 3 | 29 | 9 | 126 |
+| last180d | 2026-05-24 | 29 | 267 | 11 | 113 | 13 | 274 |
+| 360d | 2025-11-25 | 47 | 415 | 16 | 180 | 18 | 426 |
+| last720d | 2024-11-30 | 47 | 415 | 16 | 180 | 18 | 427 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [conductor_cli-0.1.45-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.45/conductor_cli-0.1.45-py3-none-any.whl) | 1.6 MiB | `other` |
-| [conductor_cli-0.1.45.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.45/conductor_cli-0.1.45.tar.gz) | 5.5 MiB | `native/unknown` |
-| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.45/constraints.txt) | 2.0 KiB | `other` |
-| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.45/constraints.txt.sha256) | 87 B | `other` |
+| [conductor_cli-0.1.46-py3-none-any.whl](https://github.com/microsoft/conductor/releases/download/v0.1.46/conductor_cli-0.1.46-py3-none-any.whl) | 1.7 MiB | `other` |
+| [conductor_cli-0.1.46.tar.gz](https://github.com/microsoft/conductor/releases/download/v0.1.46/conductor_cli-0.1.46.tar.gz) | 5.8 MiB | `native/unknown` |
+| [constraints.txt](https://github.com/microsoft/conductor/releases/download/v0.1.46/constraints.txt) | 2.0 KiB | `other` |
+| [constraints.txt.sha256](https://github.com/microsoft/conductor/releases/download/v0.1.46/constraints.txt.sha256) | 87 B | `other` |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ conductor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T07:11:00Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T06:59:46Z._
